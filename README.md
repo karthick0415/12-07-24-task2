@@ -47,7 +47,8 @@ This project showcases a modern, responsive login page built with HTML and CSS. 
 
 
 ### Mobile View
-![Mobile View Screenshot](./path-to-mobile-view.jpg)
+![Screenshot 2025-01-07 160723](https://github.com/user-attachments/assets/edd16c1d-3257-44f3-b337-8b950ecc9c24)
+
 
 ## Future Enhancements
 
